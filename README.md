@@ -1,4 +1,5 @@
 # public-sandbox
 
+README cache experiment badge:
 
-[![Sponsors](https://api.hypertribe.run/solana/dex/tokens/by-mint/TEST_MINT/holders.svg)](https://hypertribe.run/token/TEST_MINT)
+![README cache test](https://hypertribe-api-preview-kmbhwlskra-an.a.run.app/health/readme-cache-test.svg?label=public-sandbox&ttl=300&version=60)
